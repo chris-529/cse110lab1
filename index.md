@@ -7,13 +7,6 @@ Hey there! My name is Christopher Schrader. I'm a 3rd-year Computer Science stud
 - Some hobbies of mine include hiking and playing video games, namely Overwatch 2.
 - I have a dog named Jenna, whom I love very much. Here's a [picture](jenna.jpg) of her.
 
-My main interest is in web programs, namely _Node.js_ projects, although I do have experience working with other languages and technologies. Here are my favorite languages and frameworks that I have experience in, ranked by how much experience I have in them:
-1. HTML/CSS/Javascript
-2. Node.js
-3. C++
-4. Java
-5. SwiftUI
-
 I'm also really into music! I play the piano, guitar, and bass, and love indulging in new sounds. Here's aquote from one of my favorite songs, _Siberian Breaks_ by _MGMT_:
 >If you find the soul that you lost
 >
@@ -30,6 +23,29 @@ I'm also really into music! I play the piano, guitar, and bass, and love indulgi
 >To keep on quietly reminding you
 >
 >What's never created or destroyed
+
+My main interest is in web programs, namely _Node.js_ projects, although I do have experience working with other languages and technologies. Here are my favorite languages and frameworks that I have experience in, ranked by how much experience I have in them:
+1. HTML/CSS/Javascript
+2. Node.js
+3. C++ + STL
+4. Java
+5. SwiftUI
+
+I have about equal experience writing in Javascript and C++, but I tend to prefer C++ slightly. I love the nature of the language in the sense that I have more control over things compared to other higher-level languages such as Javascript. Here is a small code snippet of one of my C++ programs that I used to make a Huffman encoding tree:
+```
+struct Node {
+  std::string huffmanCode;
+  std::string value;
+  double frequency;
+};
+
+class HuffmanTree {
+public:
+  Node root;
+  HuffmanTree* leftSubTree;
+  HuffmanTree* rightSubTree;
+};
+```
 
 ### Contact:
 - chrisbuddy29@gmail.com
