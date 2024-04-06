@@ -1,6 +1,6 @@
 ## Christopher Schrader
 ![Christopher Schrader's Portrait](chrispic.jpg)
-### About:
+## About:
 Hey there! My name is Christopher Schrader. I'm a 3rd-year Computer Science student studying at **UC San Diego**. Briefly, here are a few things about me:
 - I am from **Orange County**, California
 - I am **22 years old**
@@ -54,7 +54,7 @@ public:
 - [LinkedIn](https://www.linkedin.com/in/christopher-schrader-3a9b84127/)
 
 ### Projects (ongoing and completed)
-- [x] New full-stack website for a local childcare
-- [ ] Full-stack iOS app for local childcare to handle signing in, signing out, registering, and saving records
-- [x] Class project utilizing Qt for UI that allows a user to plan tours to colleges
+- [x]  New full-stack website for a local childcare
+- [ ]  Full-stack iOS app for local childcare to handle signing in, signing out, registering, and saving records
+- [x]  Class project utilizing Qt for UI that allows a user to plan tours to colleges
 
