@@ -4,7 +4,7 @@
 Hey there! My name is Christopher Schrader. I'm a 3rd-year Computer Science student studying at **UC San Diego**. Briefly, here are a few things about me:
 - I am from **Orange County**, California
 - I am **22 years old**
-- Some hobbies of mine include hiking and playing video games, namely Overwatch 2.
+- Some hobbies of mine include hiking and playing video games, namely [Overwatch 2](https://overwatch.blizzard.com/en-us/).
 - I have a dog named Jenna, whom I love very much. Here's a [picture](jenna.jpg) of her.
 
 I'm also really into music! I play the piano, guitar, and bass, and love indulging in new sounds. Here's aquote from one of my favorite songs, _Siberian Breaks_ by _MGMT_:
