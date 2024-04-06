@@ -53,5 +53,8 @@ public:
 - cwschrader@ucsd.edu
 - [LinkedIn](https://www.linkedin.com/in/christopher-schrader-3a9b84127/)
 
-### Projects:
+### Projects (ongoing and completed)
+- [x] New full-stack website for a local childcare
+- [] Full-stack iOS app for local childcare to handle signing in, signing out, registering, and saving records
+- [x] Class project utilizing Qt for UI that allows a user to plan tours to colleges
 
