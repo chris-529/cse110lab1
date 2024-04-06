@@ -15,13 +15,20 @@ My main interest is in web programs, namely _Node.js_ projects, although I do ha
 5. SwiftUI
 
 I'm also really into music! I play the piano, guitar, and bass, and love indulging in new sounds. Here's aquote from one of my favorite songs, _Siberian Breaks_ by _MGMT_:
->If you find the soul that you lost \n
+>If you find the soul that you lost
+>
 >Frozen in a starry void
+>
 >Take it within and hope the sight of blood
+>
 >Can will signs of life to return
+>
 >Back to the way that it was
+>
 >Long before it made a noise
+>
 >To keep on quietly reminding you
+>
 >What's never created or destroyed
 
 ### Contact:
