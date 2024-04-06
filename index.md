@@ -5,6 +5,7 @@ Hey there! My name is Christopher Schrader. I'm a 3rd-year Computer Science stud
 - I am from **Orange County**, California
 - I am **22 years old**
 - Some hobbies of mine include hiking and playing video games, namely Overwatch 2.
+- I have a dog named Jenna, whom I love very much. Here's a [picture](jenna.jpg) of her.
 
 My main interest is in web programs, namely _Node.js_ projects, although I do have experience working with other languages and technologies. Here are my favorite languages and frameworks that I have experience in, ranked by how much experience I have in them:
 1. HTML/CSS/Javascript
